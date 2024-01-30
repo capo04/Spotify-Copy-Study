@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "imersao dev alura",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "imersao dev alura"
+	}
+}
